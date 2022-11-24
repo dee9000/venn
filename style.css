@@ -1,0 +1,93 @@
+body{
+  background-color: #0c3640;
+}
+
+.jumbotron-header{
+  margin: 0 0 0 20%;
+  width: 80%;
+  background-color: #f8f6f1;
+
+}
+.jumbotron {
+  border-radius: 0px;
+}
+/*navigation icons*/
+
+.fa-search,
+.fa-file,
+.fa-phone {
+  color: #0c3640;
+}
+.title-big h3{
+  font-size: 55px;
+}
+ .description-p{
+  font-size: 23px;
+}
+
+/*horizontal line*/
+hr {
+  height: 4px;
+  border: 0;
+  background-color: #fc825e;
+  transform: translate(130px,0px);
+  z-index: 999;
+  position: relative;
+
+}
+
+.blockabout-inner .rounded-custom{
+  margin-right:10px;
+  border-radius:50px !important;
+
+}
+
+.blockabout .rounded-search{
+  border-radius:50px;
+}
+
+.blockabout .fa-search{
+  background-color: #fc825e;
+  padding:10px;
+  border-radius:50%;
+  color:#fff;
+}
+.blockabout input[type="search"] {
+    width: 50px;
+
+}
+/*MIDDLE SECTION*/
+.about-section img{
+  width:43.6vw;
+  height:auto;
+}
+.about-text{
+  color: #f8f6f1;
+}
+.about-text h3{
+  font-size:50px;
+}
+.about-text p{
+  font-size:26px;
+}
+.about-text hr {
+  height: 2px;
+  border: 0;
+  background-color: #f8f6f1;
+  transform: translate(0px,0px);
+}
+/*industries section*/
+.section-industries{
+  background-color:#fff;
+  padding:5em;
+}
+.section-industries  .card-body{
+  background-color:#f7f4ef;
+}
+.section-industries .list-group-item{
+  background-color:#f7f4ef;
+
+}
+.orange-text{
+  color:#fc825e;
+}
